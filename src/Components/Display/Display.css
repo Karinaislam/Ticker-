@@ -1,0 +1,23 @@
+
+.info_box{
+    
+    display: inline;
+    line-height: 50px;
+    margin: 10px;
+    background-color: rgb(158, 161, 209);
+    position: relative;
+    -webkit-animation: mymove 5s infinite; /* Safari 4.0 - 8.0 */
+    animation: mymove 5s infinite;
+
+}
+
+/* @keyframes mymove {
+    from {left: 0px;}
+    to {left: 200px;}
+} */
+.logo{
+    height: 25px;
+    width: 25px;
+}
+
+ 
